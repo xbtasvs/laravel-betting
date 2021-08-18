@@ -1,0 +1,97 @@
+.has-tooltip:hover {
+  cursor: pointer;
+}
+
+.tooltip {
+  display: block !important;
+  z-index: 99990000;
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%) !important;
+}
+
+.tooltip .tooltip-inner {
+  background: $primary;
+  border-radius: 0.25rem;
+  color: $white;
+  padding: 0.75rem;
+}
+
+.tooltip .tooltip-arrow {
+  border-color: $primary;
+  border-style: solid;
+  height: 0;
+  margin: 5px;
+  position: absolute;
+  width: 0;
+}
+
+.tooltip[x-placement^='top'] {
+  margin-bottom: 5px;
+}
+
+.tooltip[x-placement^='top'] .tooltip-arrow {
+  border-bottom-color: transparent !important;
+  border-left-color: transparent !important;
+  border-right-color: transparent !important;
+  border-width: 5px 5px 0;
+  bottom: -5px;
+  left: calc(50% - 5px);
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.tooltip[x-placement^='bottom'] {
+  margin-top: 5px;
+}
+
+.tooltip[x-placement^='bottom'] .tooltip-arrow {
+  border-left-color: transparent !important;
+  border-right-color: transparent !important;
+  border-top-color: transparent !important;
+  border-width: 0 5px 5px;
+  left: calc(50% - 5px);
+  margin-bottom: 0;
+  margin-top: 0;
+  top: -5px;
+}
+
+.tooltip[x-placement^='right'] {
+  margin-left: 5px;
+}
+
+.tooltip[x-placement^='right'] .tooltip-arrow {
+  border-bottom-color: transparent !important;
+  border-left-color: transparent !important;
+  border-top-color: transparent !important;
+  border-width: 5px 5px 5px 0;
+  left: -5px;
+  margin-left: 0;
+  margin-right: 0;
+  top: calc(50% - 5px);
+}
+
+.tooltip[x-placement^='left'] {
+  margin-right: 5px;
+}
+
+.tooltip[x-placement^='left'] .tooltip-arrow {
+  border-bottom-color: transparent !important;
+  border-right-color: transparent !important;
+  border-top-color: transparent !important;
+  border-width: 5px 0 5px 5px;
+  margin-left: 0;
+  margin-right: 0;
+  right: -5px;
+  top: calc(50% - 5px);
+}
+
+.tooltip[aria-hidden='true'] {
+  opacity: 0;
+  transition: opacity 0.1s, visibility 0.1s;
+  visibility: hidden;
+}
+
+.tooltip[aria-hidden='false'] {
+  opacity: 1;
+  transition: opacity 0.5s;
+  visibility: visible;
+}

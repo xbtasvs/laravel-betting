@@ -1,0 +1,63 @@
+.slim-wrapper {
+  background-color: $middle-gray !important;
+}
+
+.slim-wrapper:hover {
+  cursor: pointer;
+}
+
+.slim-btn,
+.slim-image-editor .slim-editor-btn-group button,
+.slim-image-editor .slim-editor-utils-group button {
+  background-color: $primary !important;
+  background-image: none !important;
+  border-radius: 21px !important;
+  font-size: 1.1rem !important;
+  font-weight: bold !important;
+  height: auto !important;
+  padding: 0.375rem 0.75rem !important;
+  width: auto !important;
+}
+
+.slim-editor-btn,
+.slim-editor-utils-btn {
+  border: 1px solid $primary !important;
+  color: $white !important;
+}
+
+.slim-btn::before,
+.slim-editor-utils-btn::before {
+  background-image: none !important;
+  border: 0 !important;
+  display: inline-block;
+  font-family: 'Font Awesome 5 Free';
+  font-size: 1.1rem;
+  -webkit-font-smoothing: antialiased;
+  font-style: normal;
+  font-variant: normal;
+  opacity: 1 !important;
+  position: static !important;
+  text-rendering: auto;
+  transform: none !important;
+}
+
+.slim-image-editor .slim-editor-btn-group .slim-btn-cancel,
+.slim-image-editor .slim-editor-btn-group .slim-btn-confirm {
+  width: 144px !important;
+}
+
+.slim-btn-edit::before {
+  content: '\f044' !important;
+}
+
+.slim-btn-rotate::before {
+  content: '\f2f1' !important;
+}
+
+.slim-btn-remove::before {
+  content: '\f2ed' !important;
+}
+
+.slim-btn-upload::before {
+  content: '\f574' !important;
+}

@@ -1,0 +1,259 @@
+{
+  "success": true,
+  "updateType": "full",
+  "publishTimeStamp": 8496543,
+  "eventID": "104033670",
+  "sportID": 1,
+  "time": "1624617000",
+  "updateTime": "1624623650",
+  "matchLiveTime": {
+    "kickOffTime": "1624621302",
+    "passedMinutes": 45,
+    "passedSeconds": 0,
+    "onBreak": 0
+  },
+  "league": {
+    "id": "10047374",
+    "name": "Australia Brisbane Premier League"
+  },
+  "teams": [{
+    "id": "10462027",
+    "name": "Centenary Stormers"
+  }, {
+    "id": "10465246",
+    "name": "University of Queensland"
+  }],
+  "scores": [{
+    "homeScore": "1",
+    "awayScore": "0"
+  }],
+  "markets": [{
+    "id": 1777,
+    "name": "Fulltime Result",
+    "type": "",
+    "hasExtraTagOrData": false,
+    "bets": [{
+      "id": "1856579613",
+      "name": "Centenary Stormers",
+      "alternativeName": "1",
+      "handicap": "",
+      "formattedHandicap": "",
+      "tagOrExtraData": "",
+      "odd": "1/12",
+      "suspended": false
+    }, {
+      "id": "1856579631",
+      "name": "Draw",
+      "alternativeName": "X",
+      "handicap": "",
+      "formattedHandicap": "",
+      "tagOrExtraData": "",
+      "odd": "7/1",
+      "suspended": false
+    }, {
+      "id": "1856579638",
+      "name": "University of Queensland",
+      "alternativeName": "2",
+      "handicap": "",
+      "formattedHandicap": "",
+      "tagOrExtraData": "",
+      "odd": "40/1",
+      "suspended": false
+    }]
+  }, {
+    "id": 1778,
+    "name": "2nd Goal",
+    "type": "",
+    "hasExtraTagOrData": false,
+    "bets": [{
+      "id": "1859144347",
+      "name": "Centenary Stormers",
+      "alternativeName": "",
+      "handicap": "",
+      "formattedHandicap": "",
+      "tagOrExtraData": "",
+      "odd": "15/2",
+      "suspended": false
+    }, {
+      "id": "1859144354",
+      "name": "No 2nd Goal",
+      "alternativeName": "",
+      "handicap": "",
+      "formattedHandicap": "",
+      "tagOrExtraData": "",
+      "odd": "1/5",
+      "suspended": false
+    }, {
+      "id": "1859144359",
+      "name": "University of Queensland",
+      "alternativeName": "",
+      "handicap": "",
+      "formattedHandicap": "",
+      "tagOrExtraData": "",
+      "odd": "6/1",
+      "suspended": false
+    }]
+  }, {
+    "id": 421,
+    "name": "Match Goals",
+    "type": "",
+    "hasExtraTagOrData": true,
+    "bets": [{
+      "id": "1856579644",
+      "name": "Over",
+      "alternativeName": "",
+      "handicap": "1.5",
+      "formattedHandicap": "",
+      "tagOrExtraData": "1.5",
+      "odd": "10/3",
+      "suspended": false
+    }, {
+      "id": "1856579651",
+      "name": "Under",
+      "alternativeName": "",
+      "handicap": "1.5",
+      "formattedHandicap": "",
+      "tagOrExtraData": "1.5",
+      "odd": "1/5",
+      "suspended": false
+    }]
+  }, {
+    "id": 12,
+    "name": "Asian Handicap (1-0)",
+    "type": "",
+    "hasExtraTagOrData": false,
+    "bets": [{
+      "id": "1859511842",
+      "name": "Centenary Stormers",
+      "alternativeName": "",
+      "handicap": "0",
+      "formattedHandicap": " 0.0",
+      "tagOrExtraData": "",
+      "odd": "13/10",
+      "suspended": false
+    }, {
+      "id": "1859511844",
+      "name": "University of Queensland",
+      "alternativeName": "",
+      "handicap": "0",
+      "formattedHandicap": " 0.0",
+      "tagOrExtraData": "",
+      "odd": "3/5",
+      "suspended": false
+    }]
+  }, {
+    "id": 15,
+    "name": "Goal Line (1-0)",
+    "type": "",
+    "hasExtraTagOrData": true,
+    "bets": [{
+      "id": "1859513336",
+      "name": "Over",
+      "alternativeName": "",
+      "handicap": "1.5",
+      "formattedHandicap": "",
+      "tagOrExtraData": " 1.5",
+      "odd": "7/2",
+      "suspended": false
+    }, {
+      "id": "1859513337",
+      "name": "Under",
+      "alternativeName": "",
+      "handicap": "1.5",
+      "formattedHandicap": "",
+      "tagOrExtraData": " 1.5",
+      "odd": "19/100",
+      "suspended": false
+    }]
+  }, {
+    "id": 11,
+    "name": "3-Way Handicap",
+    "type": "",
+    "hasExtraTagOrData": false,
+    "bets": [{
+      "id": "1856579671",
+      "name": "Centenary Stormers",
+      "alternativeName": "",
+      "handicap": "-1",
+      "formattedHandicap": " -1",
+      "tagOrExtraData": "",
+      "odd": "17/2",
+      "suspended": false
+    }, {
+      "id": "1856579672",
+      "name": "Draw",
+      "alternativeName": "",
+      "handicap": "+1",
+      "formattedHandicap": " +1",
+      "tagOrExtraData": "",
+      "odd": "1/6",
+      "suspended": false
+    }, {
+      "id": "1856579673",
+      "name": "University of Queensland",
+      "alternativeName": "",
+      "handicap": "+1",
+      "formattedHandicap": " +1",
+      "tagOrExtraData": "",
+      "odd": "7/1",
+      "suspended": false
+    }]
+  }, {
+    "id": 10564,
+    "name": "Last Team to Score",
+    "type": "",
+    "hasExtraTagOrData": false,
+    "bets": [{
+      "id": "1856579764",
+      "name": "Centenary Stormers",
+      "alternativeName": "",
+      "handicap": "",
+      "formattedHandicap": "",
+      "tagOrExtraData": "",
+      "odd": "1/12",
+      "suspended": false
+    }, {
+      "id": "1856579766",
+      "name": "University of Queensland",
+      "alternativeName": "",
+      "handicap": "",
+      "formattedHandicap": "",
+      "tagOrExtraData": "",
+      "odd": "6/1",
+      "suspended": false
+    }]
+  }, {
+    "id": 50246,
+    "name": "To Win 2nd Half",
+    "type": "",
+    "hasExtraTagOrData": false,
+    "bets": [{
+      "id": "1856579806",
+      "name": "Centenary Stormers",
+      "alternativeName": "",
+      "handicap": "",
+      "formattedHandicap": "",
+      "tagOrExtraData": "",
+      "odd": "15/2",
+      "suspended": false
+    }, {
+      "id": "1856579807",
+      "name": "Draw",
+      "alternativeName": "",
+      "handicap": "",
+      "formattedHandicap": "",
+      "tagOrExtraData": "",
+      "odd": "1/6",
+      "suspended": false
+    }, {
+      "id": "1856579808",
+      "name": "University of Queensland",
+      "alternativeName": "",
+      "handicap": "",
+      "formattedHandicap": "",
+      "tagOrExtraData": "",
+      "odd": "7/1",
+      "suspended": false
+    }]
+  }]
+}

@@ -1,0 +1,59 @@
+.loading {
+  background: $dark-gray;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 100%;
+}
+
+.loading::before {
+  animation: loading-rotate 0.75s 0s linear infinite;
+  border: 3px solid $light-gray;
+  border-bottom-color: transparent;
+  border-radius: 100%;
+  content: '';
+  display: inline-block;
+  height: 36px;
+  margin: 2px;
+  vertical-align: middle;
+  width: 36px;
+}
+
+.loading::after {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  width: 0;
+}
+
+.construction {
+  margin: auto;
+  max-width: 42px;
+}
+
+@keyframes loading-rotate {
+  0% {
+    transform: rotate(0) scale(1);
+  }
+
+  50% {
+    transform: rotate(180deg) scale(0.6);
+  }
+
+  100% {
+    transform: rotate(360deg) scale(1);
+  }
+}
+
+.component-fade-enter-active,
+.component-fade-leave-active {
+  transition: opacity 0.3s ease;
+}
+
+.component-fade-enter,
+.component-fade-leave-to {
+  opacity: 0;
+}

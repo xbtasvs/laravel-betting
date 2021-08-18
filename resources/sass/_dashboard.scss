@@ -1,0 +1,17 @@
+.card {
+  align-items: center;
+  color: $dark-gray;
+  font-size: 1rem;
+  margin: 1rem;
+  min-width: 170px;
+  padding: 1rem;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}
+
+.card > i {
+  font-size: 4rem;
+}

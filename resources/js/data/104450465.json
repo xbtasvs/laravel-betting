@@ -1,0 +1,55 @@
+{
+  "success": true,
+  "updateType": "full",
+  "publishTimeStamp": 8354744,
+  "eventID": "104450465",
+  "sportID": 2,
+  "time": "1624618800",
+  "updateTime": "1624623650",
+  "matchLiveTime": {
+    "kickOffTime": "",
+    "passedMinutes": 0,
+    "passedSeconds": 0,
+    "onBreak": 1
+  },
+  "league": {
+    "id": "10068380",
+    "name": "UTR Pro Tennis Series Barcelona"
+  },
+  "teams": [{
+    "id": "10439953",
+    "name": "Xavier Gabarro"
+  }, {
+    "id": "10540754",
+    "name": "Ihor Dudun"
+  }],
+  "scores": [{
+    "homeScore": "5",
+    "awayScore": "2"
+  }],
+  "markets": [{
+    "id": 67,
+    "name": "To Win",
+    "type": "",
+    "hasExtraTagOrData": true,
+    "bets": [{
+      "id": "1858072465",
+      "name": "Xavier Gabarro",
+      "alternativeName": "",
+      "handicap": "",
+      "formattedHandicap": "",
+      "tagOrExtraData": "Match",
+      "odd": "1/66",
+      "suspended": false
+    }, {
+      "id": "1858072463",
+      "name": " Ihor Dudun",
+      "alternativeName": "",
+      "handicap": "",
+      "formattedHandicap": "",
+      "tagOrExtraData": "Match",
+      "odd": "20/1",
+      "suspended": false
+    }]
+  }]
+}

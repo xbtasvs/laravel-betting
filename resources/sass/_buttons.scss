@@ -1,0 +1,49 @@
+.default-button {
+  margin-right: -1px;
+}
+
+.default-button,
+.btn {
+  background: $primary;
+  border: 0 !important;
+  border-radius: 3px !important;
+  box-shadow: none !important;
+  color: $white !important;
+  float: right;
+  font-size: 100% !important;
+  outline: 0;
+  padding: 0.75rem 1rem !important;
+  text-transform: uppercase !important;
+  transition: all 0.3s ease;
+}
+
+.default-button:hover {
+  background: $accent;
+}
+
+.btn-primary {
+  background-color: $primary;
+}
+
+.btn-secondary {
+  background-color: $primary;
+}
+
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:hover {
+  background-color: $accent !important;
+}
+
+.btn-secondary:active,
+.btn-secondary:focus,
+.btn-secondary:hover {
+  background-color: $accent !important;
+}
+
+.btn-big {
+  border-radius: 42px;
+  font-size: 2rem;
+  line-height: 1.2;
+  padding: 1rem 1.5rem;
+}

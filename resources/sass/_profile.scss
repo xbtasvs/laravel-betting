@@ -1,0 +1,101 @@
+.profile {
+  padding: 0.5rem 7rem;
+}
+
+.profile-trigger,
+.profile-dropdown {
+  min-width: 147px;
+}
+
+.profile-dropdown {
+  background-color: $middle-gray;
+  display: none;
+  list-style-type: none;
+  opacity: 0;
+  padding: 0;
+  right: 0;
+  top: 50px;
+  transition: opacity 0.3s ease;
+  z-index: 2;
+}
+
+.profile-dropdown li,
+.profile-dropdown a {
+  background-color: $middle-gray;
+  color: $white;
+  display: block;
+  padding: 0.5rem 1.5rem;
+  transition: background-color 0.3s ease;
+}
+
+.profile-dropdown > li:hover,
+.profile-dropdown > a:hover,
+.profile-dropdown > .router-link-active {
+  background-color: $dark-gray !important;
+}
+
+.profile-trigger:hover .profile-dropdown {
+  display: block;
+  opacity: 1;
+}
+
+.profile-image {
+  border: 13px outset $primary;
+  height: 200px;
+  width: 200px;
+}
+
+.profile-data h2 {
+  font-size: 3rem;
+}
+
+.profile-data h5 {
+  font-size: 1rem;
+}
+
+.profile-data h5 > i {
+  font-size: 1.3rem;
+  min-width: 3rem;
+  text-align: center;
+}
+
+.profile-data > * {
+  margin-bottom: 0.75rem;
+}
+
+.profile-tabs {
+  border-bottom: 0;
+  margin-top: 2rem;
+  width: 100%;
+}
+
+.profile-tabs > li {
+  padding: 0;
+}
+
+.profile-tabs > li a {
+  color: $light-gray !important;
+}
+
+.profile-tabs > li .active {
+  color: $dark-gray !important;
+}
+
+.profile-tabs > li:hover,
+.profile-tabs > li a:hover {
+  background-color: transparent;
+  border-color: transparent !important;
+  color: $light-gray;
+}
+
+.profile-input-invalid {
+  font-size: 72% !important;
+}
+
+.profile-input-invalid ~ label {
+  font-size: 86% !important;
+}
+
+.profile-label {
+  color: $light-gray !important;
+}

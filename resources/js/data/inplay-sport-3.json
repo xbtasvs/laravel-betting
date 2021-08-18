@@ -1,0 +1,663 @@
+{
+  "success": true,
+  "updateType": "full",
+  "publishTimeStamp": 8496543,
+  "sportEvents": [{
+    "success": true,
+    "updateType": "full",
+    "publishTimeStamp": 1896817,
+    "eventID": "104343546",
+    "sportID": 3,
+    "time": "1624624200",
+    "updateTime": "1624623650",
+    "matchLiveTime": {
+      "kickOffTime": "1624623347",
+      "passedMinutes": 10,
+      "passedSeconds": 0,
+      "onBreak": 1
+    },
+    "league": {
+      "id": "10069121",
+      "name": "Australia NBL1 West"
+    },
+    "teams": [{
+      "id": "10492395",
+      "name": "Lakeside Lightning"
+    }, {
+      "id": "10492402",
+      "name": "Cockburn Cougars"
+    }],
+    "scores": [{
+      "homeScore": "0",
+      "awayScore": "0"
+    }],
+    "markets": [{
+      "id": 112,
+      "name": "Game Lines",
+      "type": "",
+      "hasExtraTagOrData": true,
+      "bets": [{
+        "id": "1856219755",
+        "name": "Lakeside Lightning",
+        "alternativeName": "",
+        "handicap": "-26.5",
+        "formattedHandicap": " -26.5",
+        "tagOrExtraData": "Spread",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1856219762",
+        "name": "Lakeside Lightning",
+        "alternativeName": "",
+        "handicap": "173.5",
+        "formattedHandicap": "O 173.5",
+        "tagOrExtraData": "Total",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1856219756",
+        "name": "Cockburn Cougars",
+        "alternativeName": "",
+        "handicap": "+26.5",
+        "formattedHandicap": " +26.5",
+        "tagOrExtraData": "Spread",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1856219764",
+        "name": "Cockburn Cougars",
+        "alternativeName": "",
+        "handicap": "173.5",
+        "formattedHandicap": "U 173.5",
+        "tagOrExtraData": "Total",
+        "odd": "5/6",
+        "suspended": false
+      }]
+    }]
+  }, {
+    "success": true,
+    "updateType": "full",
+    "publishTimeStamp": 2128716,
+    "eventID": "104343550",
+    "sportID": 3,
+    "time": "1624624200",
+    "updateTime": "1624623650",
+    "matchLiveTime": {
+      "kickOffTime": "1624623992",
+      "passedMinutes": 10,
+      "passedSeconds": 0,
+      "onBreak": 1
+    },
+    "league": {
+      "id": "10069121",
+      "name": "Australia NBL1 West"
+    },
+    "teams": [{
+      "id": "10492401",
+      "name": "Rockingham Flames"
+    }, {
+      "id": "10492387",
+      "name": "Kalamunda Eastern Suns"
+    }],
+    "scores": [{
+      "homeScore": "0",
+      "awayScore": "0"
+    }],
+    "markets": [{
+      "id": 112,
+      "name": "Game Lines",
+      "type": "",
+      "hasExtraTagOrData": true,
+      "bets": [{
+        "id": "1856221003",
+        "name": "Rockingham Flames",
+        "alternativeName": "",
+        "handicap": "-22.5",
+        "formattedHandicap": " -22.5",
+        "tagOrExtraData": "Spread",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1856221008",
+        "name": "Rockingham Flames",
+        "alternativeName": "",
+        "handicap": "168.5",
+        "formattedHandicap": "O 168.5",
+        "tagOrExtraData": "Total",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1856221339",
+        "name": "Rockingham Flames",
+        "alternativeName": "",
+        "handicap": "",
+        "formattedHandicap": "",
+        "tagOrExtraData": "Money Line",
+        "odd": "1/100",
+        "suspended": false
+      }, {
+        "id": "1856221004",
+        "name": "Kalamunda Eastern Suns",
+        "alternativeName": "",
+        "handicap": "+22.5",
+        "formattedHandicap": " +22.5",
+        "tagOrExtraData": "Spread",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1856221009",
+        "name": "Kalamunda Eastern Suns",
+        "alternativeName": "",
+        "handicap": "168.5",
+        "formattedHandicap": "U 168.5",
+        "tagOrExtraData": "Total",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1856221340",
+        "name": "Kalamunda Eastern Suns",
+        "alternativeName": "",
+        "handicap": "",
+        "formattedHandicap": "",
+        "tagOrExtraData": "Money Line",
+        "odd": "14/1",
+        "suspended": false
+      }]
+    }]
+  }, {
+    "success": true,
+    "updateType": "full",
+    "publishTimeStamp": 8231928,
+    "eventID": "104374882",
+    "sportID": 3,
+    "time": "1624617300",
+    "updateTime": "1624623650",
+    "matchLiveTime": {
+      "kickOffTime": "1624623856",
+      "passedMinutes": 0,
+      "passedSeconds": 0,
+      "onBreak": 1
+    },
+    "league": {
+      "id": "10043972",
+      "name": "International"
+    },
+    "teams": [{
+      "id": "10462388",
+      "name": "Japan"
+    }, {
+      "id": "10461352",
+      "name": "Iran"
+    }],
+    "scores": [{
+      "homeScore": "67",
+      "awayScore": "71"
+    }],
+    "markets": [{
+      "id": 112,
+      "name": "Game Lines",
+      "type": "",
+      "hasExtraTagOrData": true,
+      "bets": [{
+        "id": "1856217203",
+        "name": "Japan",
+        "alternativeName": "",
+        "handicap": "+5.5",
+        "formattedHandicap": " +5.5",
+        "tagOrExtraData": "Spread",
+        "odd": "0/0",
+        "suspended": true
+      }, {
+        "id": "1856217204",
+        "name": "Iran",
+        "alternativeName": "",
+        "handicap": "-5.5",
+        "formattedHandicap": " -5.5",
+        "tagOrExtraData": "Spread",
+        "odd": "0/0",
+        "suspended": true
+      }]
+    }]
+  }, {
+    "success": true,
+    "updateType": "full",
+    "publishTimeStamp": 8448804,
+    "eventID": "104430053",
+    "sportID": 3,
+    "time": "1624624200",
+    "updateTime": "1624624011",
+    "matchLiveTime": {
+      "kickOffTime": "1624538891",
+      "passedMinutes": 10,
+      "passedSeconds": 0,
+      "onBreak": 1
+    },
+    "league": {
+      "id": "10069952",
+      "name": "Arab Gulf Club Champs"
+    },
+    "teams": [{
+      "id": "10606179",
+      "name": "Al Kuwait"
+    }, {
+      "id": "10363308",
+      "name": "Al Ahli Bahrain"
+    }],
+    "scores": [{
+      "homeScore": "0",
+      "awayScore": "0"
+    }],
+    "markets": [{
+      "id": 112,
+      "name": "Game Lines",
+      "type": "",
+      "hasExtraTagOrData": true,
+      "bets": [{
+        "id": "1856224681",
+        "name": "Al Kuwait",
+        "alternativeName": "",
+        "handicap": "-3.5",
+        "formattedHandicap": " -3.5",
+        "tagOrExtraData": "Spread",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1856224683",
+        "name": "Al Kuwait",
+        "alternativeName": "",
+        "handicap": "181.5",
+        "formattedHandicap": "O 181.5",
+        "tagOrExtraData": "Total",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1856224795",
+        "name": "Al Kuwait",
+        "alternativeName": "",
+        "handicap": "",
+        "formattedHandicap": "",
+        "tagOrExtraData": "Money Line",
+        "odd": "4/7",
+        "suspended": false
+      }, {
+        "id": "1856224682",
+        "name": "Al Ahli Bahrain",
+        "alternativeName": "",
+        "handicap": "+3.5",
+        "formattedHandicap": " +3.5",
+        "tagOrExtraData": "Spread",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1856224684",
+        "name": "Al Ahli Bahrain",
+        "alternativeName": "",
+        "handicap": "181.5",
+        "formattedHandicap": "U 181.5",
+        "tagOrExtraData": "Total",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1856224796",
+        "name": "Al Ahli Bahrain",
+        "alternativeName": "",
+        "handicap": "",
+        "formattedHandicap": "",
+        "tagOrExtraData": "Money Line",
+        "odd": "5/4",
+        "suspended": false
+      }]
+    }]
+  }, {
+    "success": true,
+    "updateType": "full",
+    "publishTimeStamp": 8410281,
+    "eventID": "104448257",
+    "sportID": 3,
+    "time": "1624622700",
+    "updateTime": "1624623650",
+    "matchLiveTime": {
+      "kickOffTime": "1624623981",
+      "passedMinutes": 2,
+      "passedSeconds": 55,
+      "onBreak": 1
+    },
+    "league": {
+      "id": "10068518",
+      "name": "Ebasketball H2H GG League - 4x5mins"
+    },
+    "teams": [{
+      "id": "10541419",
+      "name": "LA Clippers (FREX) Esports"
+    }, {
+      "id": "10538180",
+      "name": "BKN Nets (PK) Esports"
+    }],
+    "scores": [{
+      "homeScore": "51",
+      "awayScore": "50"
+    }],
+    "markets": [{
+      "id": 112,
+      "name": "Game Lines",
+      "type": "",
+      "hasExtraTagOrData": true,
+      "bets": [{
+        "id": "1858126899",
+        "name": "LA Clippers (FREX) Esports",
+        "alternativeName": "",
+        "handicap": "-8.5",
+        "formattedHandicap": " -8.5",
+        "tagOrExtraData": "Spread",
+        "odd": "20/23",
+        "suspended": false
+      }, {
+        "id": "1858126901",
+        "name": "BKN Nets (PK) Esports",
+        "alternativeName": "",
+        "handicap": "+8.5",
+        "formattedHandicap": " +8.5",
+        "tagOrExtraData": "Spread",
+        "odd": "4/5",
+        "suspended": false
+      }]
+    }]
+  }, {
+    "success": true,
+    "updateType": "full",
+    "publishTimeStamp": 8496543,
+    "eventID": "104449621",
+    "sportID": 3,
+    "time": "1624623660",
+    "updateTime": "1624623830",
+    "matchLiveTime": {
+      "kickOffTime": "1624624011",
+      "passedMinutes": 0,
+      "passedSeconds": 34,
+      "onBreak": 0
+    },
+    "league": {
+      "id": "10068518",
+      "name": "Ebasketball H2H GG League - 4x5mins"
+    },
+    "teams": [{
+      "id": "10533588",
+      "name": "MIA Heat (BRADY) Esports"
+    }, {
+      "id": "10623374",
+      "name": "BOS Celtics (HARLEM) Esports"
+    }],
+    "scores": [{
+      "homeScore": "4",
+      "awayScore": "2"
+    }],
+    "markets": [{
+      "id": 112,
+      "name": "Game Lines",
+      "type": "",
+      "hasExtraTagOrData": true,
+      "bets": [{
+        "id": "1858126988",
+        "name": "MIA Heat (BRADY) Esports",
+        "alternativeName": "",
+        "handicap": "-13.5",
+        "formattedHandicap": " -13.5",
+        "tagOrExtraData": "Spread",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1858126990",
+        "name": "MIA Heat (BRADY) Esports",
+        "alternativeName": "",
+        "handicap": "121.5",
+        "formattedHandicap": "O 121.5",
+        "tagOrExtraData": "Total",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1858126989",
+        "name": "BOS Celtics (HARLEM) Esports",
+        "alternativeName": "",
+        "handicap": "+13.5",
+        "formattedHandicap": " +13.5",
+        "tagOrExtraData": "Spread",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1858126991",
+        "name": "BOS Celtics (HARLEM) Esports",
+        "alternativeName": "",
+        "handicap": "121.5",
+        "formattedHandicap": "U 121.5",
+        "tagOrExtraData": "Total",
+        "odd": "5/6",
+        "suspended": false
+      }]
+    }]
+  }, {
+    "success": true,
+    "updateType": "full",
+    "publishTimeStamp": 2137614,
+    "eventID": "104463709",
+    "sportID": 3,
+    "time": "1624621500",
+    "updateTime": "1624623650",
+    "matchLiveTime": {
+      "kickOffTime": "1624623766",
+      "passedMinutes": 0,
+      "passedSeconds": 0,
+      "onBreak": 1
+    },
+    "league": {
+      "id": "10048668",
+      "name": "Ebasketball Battle - 4x5mins"
+    },
+    "teams": [{
+      "id": "10543498",
+      "name": "CHA Hornets (blaylockk) Esports"
+    }, {
+      "id": "10616195",
+      "name": "PHX Suns (ViTOR) Esports"
+    }],
+    "scores": [{
+      "homeScore": "76",
+      "awayScore": "56"
+    }],
+    "markets": [{
+      "id": 112,
+      "name": "Game Lines",
+      "type": "",
+      "hasExtraTagOrData": true,
+      "bets": [{
+        "id": "1858312637",
+        "name": "CHA Hornets (blaylockk) Esports",
+        "alternativeName": "",
+        "handicap": "-21.5",
+        "formattedHandicap": " -21.5",
+        "tagOrExtraData": "Spread",
+        "odd": "0/0",
+        "suspended": true
+      }, {
+        "id": "1858312643",
+        "name": "PHX Suns (ViTOR) Esports",
+        "alternativeName": "",
+        "handicap": "+21.5",
+        "formattedHandicap": " +21.5",
+        "tagOrExtraData": "Spread",
+        "odd": "0/0",
+        "suspended": true
+      }]
+    }]
+  }, {
+    "success": true,
+    "updateType": "full",
+    "publishTimeStamp": 8448804,
+    "eventID": "104463712",
+    "sportID": 3,
+    "time": "1624622400",
+    "updateTime": "1624623650",
+    "matchLiveTime": {
+      "kickOffTime": "1624623989",
+      "passedMinutes": 3,
+      "passedSeconds": 49,
+      "onBreak": 1
+    },
+    "league": {
+      "id": "10048668",
+      "name": "Ebasketball Battle - 4x5mins"
+    },
+    "teams": [{
+      "id": "10541795",
+      "name": "BOS Celtics (IanJoe) Esports"
+    }, {
+      "id": "10542500",
+      "name": "GS Warriors (FasTiK) Esports"
+    }],
+    "scores": [{
+      "homeScore": "46",
+      "awayScore": "27"
+    }],
+    "markets": [{
+      "id": 112,
+      "name": "Game Lines",
+      "type": "",
+      "hasExtraTagOrData": true,
+      "bets": [{
+        "id": "1858312849",
+        "name": "BOS Celtics (IanJoe) Esports",
+        "alternativeName": "",
+        "handicap": "-17.5",
+        "formattedHandicap": " -17.5",
+        "tagOrExtraData": "Spread",
+        "odd": "5/6",
+        "suspended": true
+      }, {
+        "id": "1858312851",
+        "name": "BOS Celtics (IanJoe) Esports",
+        "alternativeName": "",
+        "handicap": "123.5",
+        "formattedHandicap": "O 123.5",
+        "tagOrExtraData": "Total",
+        "odd": "20/23",
+        "suspended": true
+      }, {
+        "id": "1858312853",
+        "name": "BOS Celtics (IanJoe) Esports",
+        "alternativeName": "",
+        "handicap": "",
+        "formattedHandicap": "",
+        "tagOrExtraData": "Money Line",
+        "odd": "1/250",
+        "suspended": true
+      }, {
+        "id": "1858312850",
+        "name": "GS Warriors (FasTiK) Esports",
+        "alternativeName": "",
+        "handicap": "+17.5",
+        "formattedHandicap": " +17.5",
+        "tagOrExtraData": "Spread",
+        "odd": "5/6",
+        "suspended": true
+      }, {
+        "id": "1858312852",
+        "name": "GS Warriors (FasTiK) Esports",
+        "alternativeName": "",
+        "handicap": "123.5",
+        "formattedHandicap": "U 123.5",
+        "tagOrExtraData": "Total",
+        "odd": "4/5",
+        "suspended": true
+      }]
+    }]
+  }, {
+    "success": true,
+    "updateType": "full",
+    "publishTimeStamp": 8231935,
+    "eventID": "104477928",
+    "sportID": 3,
+    "time": "1624623900",
+    "updateTime": "1624623650",
+    "matchLiveTime": {
+      "kickOffTime": "1624621652",
+      "passedMinutes": 5,
+      "passedSeconds": 0,
+      "onBreak": 1
+    },
+    "league": {
+      "id": "10068986",
+      "name": "Ebasketball Liga Pro 4x5mins"
+    },
+    "teams": [{
+      "id": "10541931",
+      "name": "mi4eka Esports"
+    }, {
+      "id": "10541666",
+      "name": "BossVlados0_0 Esports"
+    }],
+    "scores": [{
+      "homeScore": "0",
+      "awayScore": "0"
+    }],
+    "markets": [{
+      "id": 112,
+      "name": "Game Lines",
+      "type": "",
+      "hasExtraTagOrData": true,
+      "bets": [{
+        "id": "1859411113",
+        "name": "mi4eka Esports",
+        "alternativeName": "",
+        "handicap": "+11.5",
+        "formattedHandicap": " +11.5",
+        "tagOrExtraData": "Spread",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1859411117",
+        "name": "mi4eka Esports",
+        "alternativeName": "",
+        "handicap": "143.5",
+        "formattedHandicap": "O 143.5",
+        "tagOrExtraData": "Total",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1859411119",
+        "name": "mi4eka Esports",
+        "alternativeName": "",
+        "handicap": "",
+        "formattedHandicap": "",
+        "tagOrExtraData": "Money Line",
+        "odd": "4/1",
+        "suspended": false
+      }, {
+        "id": "1859411115",
+        "name": "BossVlados0_0 Esports",
+        "alternativeName": "",
+        "handicap": "-11.5",
+        "formattedHandicap": " -11.5",
+        "tagOrExtraData": "Spread",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1859411118",
+        "name": "BossVlados0_0 Esports",
+        "alternativeName": "",
+        "handicap": "143.5",
+        "formattedHandicap": "U 143.5",
+        "tagOrExtraData": "Total",
+        "odd": "5/6",
+        "suspended": false
+      }, {
+        "id": "1859411120",
+        "name": "BossVlados0_0 Esports",
+        "alternativeName": "",
+        "handicap": "",
+        "formattedHandicap": "",
+        "tagOrExtraData": "Money Line",
+        "odd": "1/7",
+        "suspended": false
+      }]
+    }]
+  }]
+}

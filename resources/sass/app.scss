@@ -1,0 +1,211 @@
+@import '~bootstrap/scss/bootstrap';
+@import 'colors';
+
+::-webkit-scrollbar {
+  height: 7px;
+  width: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: $dark-gray;
+}
+
+::-webkit-scrollbar-thumb {
+  background: $light-gray;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: $primary;
+}
+
+body {
+  scrollbar-color: $primary $dark-gray;
+  scrollbar-width: thin;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-bottom: 0;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.border-bottom {
+  border-bottom: 1px solid darken($middle-gray, 34%) !important;
+}
+
+.hover-underline:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.btn.focus,
+.btn:focus {
+  box-shadow: none;
+}
+
+.bg-dark {
+  background-color: $dark-gray !important;
+
+  &.transparency {
+    background-color: rgba($dark-gray, 0.8) !important;
+  }
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+}
+
+.notice {
+  margin-top: -8rem;
+}
+
+body {
+  background-color: $dark-gray !important;
+  color: $light-gray;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 0.8rem;
+  // height: 100vh;
+  overflow-x: hidden;
+  width: 100vw;
+}
+
+.main {
+  background-color: $dark-gray !important;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.pages {
+  align-items: center;
+  // background: linear-gradient(#4c4c4c, rgba(79, 79, 79, 0.2)), url('../img/dashboard.jpg');
+  background-color: $dark-gray !important;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  height: calc(100% - 215px);
+  justify-content: center;
+}
+
+.pages > small {
+  font-size: 150%;
+}
+
+.text-accent {
+  color: $accent;
+}
+
+.text-red {
+  color: $red;
+}
+
+.fa {
+  font-size: 150%;
+}
+
+.topbar {
+  background-image: url('../img/banner.jpg');
+  background-size: cover;
+  padding: 0 1rem !important;
+}
+
+.navbar {
+  background-color: $dark-gray !important;
+  border-radius: 0;
+  box-shadow: none;
+  margin-bottom: 0;
+  padding: 0.5rem 1rem;
+}
+
+.nav-item {
+  border-radius: 3px;
+  color: $light-gray;
+  padding: 1rem;
+  text-transform: uppercase;
+}
+
+.nav-item:hover,
+.router-link-exact-active {
+  background-color: rgba(255, 255, 255, 0.25);
+  color: $white !important;
+  cursor: pointer;
+}
+
+.navbar-brand {
+  color: $white !important;
+  // font-family: 'MuseoModerno', cursive;
+  font-size: 250% !important;
+  font-weight: 900;
+  margin-left: 0.9375rem;
+}
+
+.navbar-brand,
+.navbar-brand:hover {
+  background-color: transparent;
+}
+
+.navbar-primary {
+  background: $primary;
+  background-color: $primary !important;
+  background: -moz-linear-gradient(10deg, $primary 0%, darken($primary, 13%) 100%) !important;
+  background: -webkit-linear-gradient(10deg, $primary 0%, darken($primary, 13%) 100%) !important;
+  background: linear-gradient(10deg, $primary 0%, darken($primary, 13%) 100%) !important;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#006099",endColorstr="#004c79",GradientType=1);
+  background-image: none;
+}
+
+.avatar {
+  border: 1px solid $middle-gray;
+  max-height: 34px;
+  max-width: 34px;
+  min-height: 34px;
+  min-width: 34px;
+}
+
+.wrapper {
+  justify-content: flex-start;
+  margin: auto;
+  // overflow-y: auto;
+  padding: 2rem 20rem;
+}
+
+.bg-primary {
+  background-color: $primary !important;
+}
+
+.font-bold {
+  font-weight: bold !important;
+}
+
+@import 'loading';
+@import 'search';
+@import 'modals';
+@import 'forms';
+@import 'datepicker';
+@import 'buttons';
+@import 'slim';
+@import 'languages';
+@import 'accordion';
+@import 'tooltip';
+
+@import 'rules';
+@import 'sports';
+@import 'contact';
+@import 'dashboard';
+@import 'profile';
+@import 'slip';
+@import 'bets';
+
+@import 'mobile';

@@ -1,0 +1,21 @@
+.scroller {
+  height: 100%;
+}
+
+.bets-rows {
+  background-color: rgba($dark-gray, 90%);
+  border-bottom: 1px solid darken($middle-gray, 20%);
+  padding: 1rem;
+
+  &:last-child {
+    border-bottom: 0;
+  }
+}
+
+.hoverable:hover {
+  cursor: pointer;
+}
+
+.special-line-height {
+  padding: 0.75rem;
+}

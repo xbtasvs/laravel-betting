@@ -1,0 +1,36 @@
+.accordion {
+  max-height: 75vh;
+  overflow-y: auto;
+}
+
+.accordion-subitems {
+  top: 43px;
+  left: 0;
+  right: 0;
+  z-index: 99;
+  max-height: 215px;
+  overflow-y: auto;
+  transition: all 0.3s ease;
+}
+
+.margin-offset {
+  margin-bottom: calc(215px + 1rem);
+}
+
+.bg-primary-light {
+  background-color: lighten($primary, 25%);
+}
+
+.add-button {
+  transition: all 0.3s ease;
+}
+
+.add-button:hover {
+  cursor: pointer;
+  background-color: $accent !important;
+  color: $white !important;
+}
+
+.icon-button {
+  padding: 0.5rem !important;
+}

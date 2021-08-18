@@ -1,0 +1,30 @@
+.rules {
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin: auto;
+  overflow-y: auto;
+  padding: 2rem;
+  text-align: left;
+  width: 100vw;
+}
+
+.rules h1 {
+  font-size: 200%;
+  font-weight: bold;
+}
+
+.rule-header {
+  font-size: 150%;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.rule-subitems {
+  margin-left: -20px;
+}
+
+.rule-subitem-text {
+  font-size: 70%;
+  font-weight: normal;
+  text-transform: none;
+}

@@ -1,0 +1,100 @@
+{
+    "success": 1,
+    "sports": [
+        {
+            "name": "Soccer",
+            "id": 1,
+            "betsapi_id": 1
+        },
+        {
+            "name": "Tennis",
+            "id": 2,
+            "betsapi_id": 13
+        },
+        {
+            "name": "Basketball",
+            "id": 3,
+            "betsapi_id": 18
+        },
+        {
+            "name": "Ice Hockey",
+            "id": 4,
+            "betsapi_id": 17
+        },
+        {
+            "name": "Volleyball",
+            "id": 5,
+            "betsapi_id": 91
+        },
+        {
+            "name": "Badminton",
+            "id": 6,
+            "betsapi_id": 94
+        },
+        {
+            "name": "Baseball",
+            "id": 7,
+            "betsapi_id": 16
+        },
+        {
+            "name": "Table Tennis",
+            "id": 8,
+            "betsapi_id": 92
+        },
+        {
+            "name": "Boxing",
+            "id": 9,
+            "betsapi_id": 9
+        },
+        {
+            "name": "Football",
+            "id": 10,
+            "betsapi_id": 12
+        },
+        {
+            "name": "Cricket",
+            "id": 11,
+            "betsapi_id": 3
+        },
+        {
+            "name": "E-sports",
+            "id": 12,
+            "betsapi_id": 151
+        },
+        {
+            "name": "Horse Racing",
+            "id": 13,
+            "betsapi_id": 2
+        },
+        {
+            "name": "Snooker",
+            "id": 14,
+            "betsapi_id": 14
+        },
+        {
+            "name": "Greyhound",
+            "id": 15,
+            "betsapi_id": 4
+        },
+        {
+            "name": "Handball",
+            "id": 16,
+            "betsapi_id": 78
+        },
+        {
+            "name": "Darts",
+            "id": 17,
+            "betsapi_id": 15
+        },
+        {
+            "name": "Water Polo",
+            "id": 18,
+            "betsapi_id": 110
+        },
+        {
+            "name": "Futsal",
+            "id": 19,
+            "betsapi_id": 83
+        }
+	]
+}
